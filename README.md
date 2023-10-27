@@ -1,2 +1,2 @@
 # RepoPython
-this the part of project on AI principles
+Python basics project (AI principles)
